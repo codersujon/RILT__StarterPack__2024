@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/codersujon" target="_blank">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjZ6H-4MmOECB1h-zPYnqCIt6RvFrOJav5Vw&s"
-            width="150" alt="Laravel Logo">
+            width="100" alt="Laravel Logo">
     </a>
 </p>
 
